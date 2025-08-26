@@ -26,7 +26,10 @@ The repository covers the following areas:
 The dataset files are available in the dedicated `Dataset` branch of this repository.  
 Switch to that branch to access raw datasets used for analysis.
 
- ## Tech Stack
+## Power BI Visualization Files 
+Power BI dashboards and reports are available in the `PowerBI-Visualization` branch.
+
+## Tech Stack
   •	Python
 	•	Pandas → Data cleaning & manipulation
 	•	Matplotlib → Data visualization
