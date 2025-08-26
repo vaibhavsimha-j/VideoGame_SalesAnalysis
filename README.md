@@ -22,6 +22,10 @@ The repository covers the following areas:
 	•	Identifying regional market differences (NA vs EU vs JP)
 	•	Correlating genre/platform with sales success
 
+## Dataset Files  
+The dataset files are available in the dedicated `Dataset` branch of this repository.  
+Switch to that branch to access raw datasets used for analysis.
+
  ## Tech Stack
   •	Python
 	•	Pandas → Data cleaning & manipulation
