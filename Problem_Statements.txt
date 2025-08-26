@@ -1,0 +1,58 @@
+### Storyline: The Journey of a Data Engineer
+
+**Phase 1 (Months 1-3): Data Familiarization and Initial Processing**
+
+*Storyline:*
+
+Welcome to your new role as a Data Engineer at GameCo, a company specializing in video game analytics. In your first three months, you are tasked with understanding and preparing the initial dataset you have been given. The dataset contains video game sales data, but it is limited and requires significant preprocessing. Your tasks include cleaning the data, identifying anomalies, and expanding the dataset to create a robust data pipeline.
+
+*Problem Statements:*
+
+1. **Analyze Sales Trends:** Analyze the sales trends for the Atari 2600 platform over the years 1980 and 1981. Use Python for data manipulation and Power BI to create visualizations showing how game sales fluctuated across these years.
+2. **Genre Performance Dashboard:** Develop a Power BI dashboard to visualize the performance of different video game genres on the Atari 2600 during 1980 and 1981. Use Python to preprocess the data and create interactive visualizations to compare sales across different genres.
+3. **Regional Genre Popularity:** Identify which video game genres were more popular in North America compared to Europe. Use Python for data analysis and Power BI for creating detailed comparative visualizations.
+**Phase 2 (Months 4-6): Data Ingestion and Storage Optimization**
+
+*Storyline:*
+
+With a better understanding of the data, you will now focus on data ingestion strategies. Your goal is to implement efficient data ingestion processes using Python and SQL, optimizing storage and performance.
+
+*Problem Statements:*
+
+4. **Platform Sales Analysis:** Extract all the records for the X360 platform. Visualize and extract findings regarding their sales in different countries and global sales. State your observations.
+5. **Genre-Specific Sales in Japan:** Extract records for genres where video game sales were higher in Japan than in Europe. Save these records in a CSV file named ‘JP_Sales.csv’. Analyze the contribution of different genres to sales in various regions.
+6. **PS3 Sports Games:** Extract records for PS3 sports games, sorting them by global sales from maximum to minimum. Save these records in a CSV file named ‘sportsps.csv’.
+7. **Post-2010 Sports Games Analysis:** Extract records for sports games in the action or shooter genres since 2010. Visualize the distribution of global sales and explain your findings.
+**Phase 3 (Months 7-9): Data Transformation**
+
+*Storyline:*
+
+You are now well-versed in the business context and data characteristics. Your next task is to transform the data to meet business requirements. This phase will involve designing and implementing various data transformations and solving complex problem statements.
+
+*Problem Statements:*
+
+8. **Genre Releases and Sales:** Analyze the number of game releases per genre during 1980 and 1981 on the Atari 2600 and their corresponding sales figures. Use Python for analysis and Power BI for visualization.
+9. **High Sales Genres:** Create a CSV file with records for sports, action, and shooter genres with global sales greater than 2 million. Exclude genres such as puzzle, fighting, and racing. Analyze these records.
+10. **Decade-Based Sales Analysis:** Create categories based on decades (1990-1999, 2000-2009, 2010-2016). Extract records of games sold between 2 million and 10 million across these decades. Analyze genre contributions to sales.
+**Phase 4 (Months 10-12): Data Warehousing and Visualization**
+
+*Storyline:*
+
+After transforming the data, your focus shifts to warehousing and visualizing the data for business insights. You will store the transformed data in a data warehouse and create visualizations to help the business make data-driven decisions.
+
+*Problem Statements:*
+
+11. **Top and Underperforming Games:** Identify the top-performing and underperforming video games on the Atari 2600 in terms of global sales using Python for analysis and Power BI for visualization.
+12. **Racing Genre Sales Analysis:** Extract records for the racing genre with the highest EU sales between 2000 and 2009, where EU sales are greater than JP, NA, and other sales. Save these records in a CSV file named ‘racing_eusales.csv’. Extract the top 5 EU sales records for 'Name' and 'EU Sales', setting 'Name' as the index.
+13. **Cumulative Sales Visualization:** For the XB platform, find the sum of NA and JP sales across different years. Visualize the cumulative sum of NA sales using a line plot and explain your findings.
+
+**Final Phase: Reporting and Visualization**
+
+*Storyline:*
+
+In the final phase, you will take on the role of a data analyst. Your task is to conduct meaningful analysis and create insightful visualizations to drive revenue, improve efficiencies, and identify optimization opportunities for the business.
+
+*Problem Statements:*
+
+14. **Sales Across Decades:** Create bins for the years 1980-1989, 1990-1999, 2000-2009, and 2010-2016. Label these bins as decades and create a new column 'Decade' mapping each year to its respective decade. Visualize global sales across decades for different regions.
+15. **Feature Impact on Sales:** Analyze the impact of specific game features on the sales performance of Atari 2600 games. Use genre or publisher as proxy indicators if feature data is unavailable.
