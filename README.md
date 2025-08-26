@@ -1,4 +1,4 @@
-# VideoGame-_SalesAnalysis-
+# VideoGame_SalesAnalysis
 This repository contains 15 real-world data analysis problem statements based on video game sales datasets. The solutions demonstrate data cleaning, transformation, visualization, and insight generation using Python.
 The project highlights exploratory data analysis (EDA) skills applied to entertainment industry data, making it a great intermediate-level portfolio project for aspiring data analysts.
 
@@ -26,6 +26,15 @@ The repository covers the following areas:
   •	Python
 	•	Pandas → Data cleaning & manipulation
 	•	Matplotlib → Data visualization
+
+## Repo Structure
+
+| File | Description |
+|------|-------------|
+| **PS.txt** | Contains all problem statements (1–15) |
+| **PS_Solutions.ipynb** | Jupyter Notebook with solutions to the problem statements |
+| **requirements.txt** | Dependencies (pandas, matplotlib) |
+| **README.md** | Project overview & documentation |
 
  ## Learning Outcomes
 
