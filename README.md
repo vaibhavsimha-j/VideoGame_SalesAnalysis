@@ -31,7 +31,7 @@ The repository covers the following areas:
 
 | File | Description |
 |------|-------------|
-| **PS.txt** | Contains all problem statements (1–15) |
+| **Problem_Statements.txt** | Contains all problem statements (1–15) |
 | **PS_Solutions.ipynb** | Jupyter Notebook with solutions to the problem statements |
 | **requirements.txt** | Dependencies (pandas, matplotlib) |
 | **README.md** | Project overview & documentation |
